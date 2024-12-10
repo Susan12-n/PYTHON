@@ -18,3 +18,15 @@ print(prod)
 # to other arithmetic operations 
 # area of a circle
 # simple interest
+
+
+
+# modulus
+num3 =50
+print(num3 % 4)
+
+num4 = 4
+print(num4**2)
+
+# the results is 2
+print(7//3)
